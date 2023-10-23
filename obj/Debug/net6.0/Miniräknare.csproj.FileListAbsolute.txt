@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\Miniräknare\bin\Debug\net6.0\Miniräknare.exe
+C:\Users\Simon\source\repos\Miniräknare\bin\Debug\net6.0\Miniräknare.deps.json
+C:\Users\Simon\source\repos\Miniräknare\bin\Debug\net6.0\Miniräknare.runtimeconfig.json
+C:\Users\Simon\source\repos\Miniräknare\bin\Debug\net6.0\Miniräknare.dll
+C:\Users\Simon\source\repos\Miniräknare\bin\Debug\net6.0\Miniräknare.pdb
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.dll
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\refint\Miniräknare.dll
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.pdb
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\Miniräknare.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Miniräknare\obj\Debug\net6.0\ref\Miniräknare.dll
